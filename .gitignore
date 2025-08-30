@@ -3,4 +3,7 @@ __pycache__/
 test_predict.py
 /home/valeriavolik/practice_6/data/raw/first_dataset/Fake.csv
 /home/valeriavolik/practice_6/data/raw/first_dataset/True.csv
-/home/valeriavolik/practice_6/data/combined_news.csv
+/home/valeriavolik/practice_6/data/combined_news.csvdata/raw/
+models/
+*.pkl
+*.whl
